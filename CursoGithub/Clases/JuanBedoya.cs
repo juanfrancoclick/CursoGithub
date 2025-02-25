@@ -20,5 +20,10 @@
         {
             return Salario * 0.9;
         }
+
+        public string ObtenerNombreCompleto()
+        {
+            return $"{Nombre} {Apellido}";
+        }
     }
 }
