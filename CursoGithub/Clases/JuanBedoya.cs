@@ -14,5 +14,11 @@
             Edad = edad;
             Salario = salario;
         }
+
+        // Crear un metodo que calcule el salario neto de un empleado, el salario neto se calcula restando el 10% del salario bruto
+        public double CalcularSalarioNeto()
+        {
+            return Salario * 0.9;
+        }
     }
 }
