@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35818.85 d17.13
+VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoGithub", "CursoGithub\CursoGithub.csproj", "{6BDFA0CA-97E5-4997-BADD-C01089AF362C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaboratorioClase.test", "LaboratorioClase.test\LaboratorioClase.test.csproj", "{8900C2EC-D139-4131-82EF-2555B524F940}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{6BDFA0CA-97E5-4997-BADD-C01089AF362C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BDFA0CA-97E5-4997-BADD-C01089AF362C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BDFA0CA-97E5-4997-BADD-C01089AF362C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8900C2EC-D139-4131-82EF-2555B524F940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8900C2EC-D139-4131-82EF-2555B524F940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8900C2EC-D139-4131-82EF-2555B524F940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8900C2EC-D139-4131-82EF-2555B524F940}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
