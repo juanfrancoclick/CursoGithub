@@ -21,6 +21,11 @@
             return Salario * 0.9;
         }
 
+
+        /// <summary>
+        /// Obtains the full name of the employee by concatenating the first name and last name.
+        /// </summary>
+        /// <returns>A string that represents the full name of the employee.</returns>
         public string ObtenerNombreCompleto()
         {
             return $"{Nombre} {Apellido}";
