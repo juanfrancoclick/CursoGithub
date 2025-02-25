@@ -14,5 +14,10 @@
             Edad = edad;
             Salario = salario;
         }
+
+        public string ObtenerNombreCompleto()
+        {
+            return $"{Nombre} {Apellido}";
+        }
     }
 }
